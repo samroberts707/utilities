@@ -6,9 +6,12 @@
     <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <!--Import materialize.css-->
     <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+    <link rel="icon" href="img/favicon.ico" type="icon" sizes="32x32">
 
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <title>Utilities</title>
 </head>
 
 <body>
@@ -18,16 +21,16 @@
         <a href="#!" class="brand-logo right">Logo</a>
         <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
         <ul class="left hide-on-med-and-down">
-            <li><a href="sass.html">Sass</a></li>
-            <li><a href="badges.html">Components</a></li>
-            <li><a href="collapsible.html">Javascript</a></li>
-            <li><a href="mobile.html">Mobile</a></li>
+            <li><a href="sass.html">Encryption</a></li>
+            <li><a href="badges.html">Obfuscation</a></li>
+            <li><a href="collapsible.html">Minifying</a></li>
+            <li><a href="mobile.html">Character Codes</a></li>
         </ul>
         <ul class="side-nav" id="mobile-demo">
-            <li><a href="sass.html">Sass</a></li>
-            <li><a href="badges.html">Components</a></li>
-            <li><a href="collapsible.html">Javascript</a></li>
-            <li><a href="mobile.html">Mobile</a></li>
+            <li><a href="sass.html">Encryption</a></li>
+            <li><a href="badges.html">Obfuscation</a></li>
+            <li><a href="collapsible.html">Minifying</a></li>
+            <li><a href="mobile.html">Character Codes</a></li>
         </ul>
     </div>
 </nav>
