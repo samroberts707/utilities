@@ -21,16 +21,16 @@
         <a href="#!" class="brand-logo right">Logo</a>
         <a href="#" data-activates="mobile-demo" class="button-collapse"><i class="material-icons">menu</i></a>
         <ul class="left hide-on-med-and-down">
-            <li><a href="sass.html">Encryption</a></li>
-            <li><a href="badges.html">Obfuscation</a></li>
-            <li><a href="collapsible.html">Minifying</a></li>
-            <li><a href="mobile.html">Character Codes</a></li>
+            <li><a href="#">Encryption</a></li>
+            <li><a href="#">Obfuscation</a></li>
+            <li><a href="#">Minifying</a></li>
+            <li><a href="#">Character Codes</a></li>
         </ul>
         <ul class="side-nav" id="mobile-demo">
-            <li><a href="sass.html">Encryption</a></li>
-            <li><a href="badges.html">Obfuscation</a></li>
-            <li><a href="collapsible.html">Minifying</a></li>
-            <li><a href="mobile.html">Character Codes</a></li>
+            <li><a href="#">Encryption</a></li>
+            <li><a href="#">Obfuscation</a></li>
+            <li><a href="#">Minifying</a></li>
+            <li><a href="#">Character Codes</a></li>
         </ul>
     </div>
 </nav>
