@@ -24,13 +24,13 @@
             <li><a href="encyption.php">Encryption</a></li>
             <li><a href="obfuscation.php">Obfuscation</a></li>
             <li><a href="minifying.php">Minifying</a></li>
-            <li><a href="character-codes.php">Character Codes</a></li>
+            <li class="active"><a href="character-codes.php">Character Codes</a></li>
         </ul>
         <ul class="side-nav" id="mobile-demo">
             <li><a href="encyption.php">Encryption</a></li>
             <li><a href="obfuscation.php">Obfuscation</a></li>
             <li><a href="minifying.php">Minifying</a></li>
-            <li><a href="character-codes.php">Character Codes</a></li>
+            <li class="active"><a href="character-codes.php">Character Codes</a></li>
         </ul>
     </div>
 </nav>
